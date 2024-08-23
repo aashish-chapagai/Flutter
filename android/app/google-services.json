@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "477030034447",
+    "project_id": "login-b60a0",
+    "storage_bucket": "login-b60a0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:477030034447:android:a31c74d257606ffcd3477a",
+        "android_client_info": {
+          "package_name": "com.aashishchapagai.login"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6GJ3Squ6QMq0UOwFPRqwTDDYS4VsFUO4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
